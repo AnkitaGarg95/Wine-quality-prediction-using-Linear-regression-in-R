@@ -11,7 +11,6 @@ __r script basic data loading.R__ shows the R script used to obtain these result
 
 <br> Report Snapshot can be seen as:
 ![Report Glimps: EDA](/images/glimps_of_report.png)
-
-<br> Features of selected model can be seen as:
-![Features](/images/features.PNG)
+<br>
+- Please, read report for a complete understanding of work that is been carried out.
 
